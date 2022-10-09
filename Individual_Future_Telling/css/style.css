@@ -10,6 +10,20 @@ body {
     margin-bottom: -75px;
   }
 
+.textabout{
+    font-family: 'Poppins', cursive;
+    font-size: 14px;
+    text-align: justify;
+    font-weight: 50;
+    margin-right: 300px;
+    margin-top: 40px;
+}
+
+.imgabout{
+    margin-left: 250px;
+    margin-top: 40px;
+}
+
   .imgport{
     display: block;
     margin-left: auto;
