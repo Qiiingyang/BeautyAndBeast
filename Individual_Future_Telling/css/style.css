@@ -27,8 +27,18 @@ body {
 
   .textcontact1{
     font-family: 'Amatic SC', cursive;
-    font-size: 14px;
+    font-size: 24px;
     text-align: left;
+    margin-left: 500px;
+    margin-top: 200px;
+  }
+
+  .textcontact2{
+    font-family: 'Poppins', cursive;
+    font-size: 24px;
+    text-align: left;
+    margin-left: 500px;
+    margin-top: 200px;
   }
 
   a {
