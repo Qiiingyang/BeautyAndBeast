@@ -1,1 +1,42 @@
+body {
+    background-color: white;
+  }
+  
+  .navigation{
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 75px;
+    margin-bottom: -75px;
+  }
+  
+  .imgport{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -230px;
+    width: 50%;
+  }
 
+  .textport{
+    font-family: 'Poppins', cursive;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 100;
+  }
+  
+  a {
+    color: black;
+  }
+  
+  a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: rgb(25, 20, 85);
+  }
+  
+  a:active {
+    color: rgb(25, 20, 85);
+  }
